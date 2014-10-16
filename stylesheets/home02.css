@@ -9,6 +9,44 @@
 /* Website: http://www.designova.net */
 /* Copyright: (C) 2013 */
 /*-------------------------------------------------------------------------------------------------------------------------------*/
+/*Custom*/
+.top-banner-caption-v1 h1 * {
+  border-bottom-color: rgb(238, 59, 22);
+  border-bottom-style: solid;
+  border-bottom-width: 4px;
+  box-sizing: border-box;
+  color: rgb(255, 255, 255);
+  display: inline;
+  font-family: "NexaLight";
+  font-size: 35px;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 1px;
+  line-height: 55px;
+  text-align: center;
+  text-transform: uppercase;
+  width: auto;
+}
+.top-banner-caption-v1 p {
+  box-sizing: border-box;
+  color: rgb(255, 255, 255);
+  display: block;
+  font-family: "NexaBold";
+  font-size: 64px;
+  font-weight: 500;
+  height: 70px;
+  line-height: 70px;
+  margin-bottom: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 7px;
+  /*opacity: 0.216224998235703;*/
+  text-align: center;
+  text-transform: uppercase;
+  width: 1000px;
+}
+/* End Custom*/
+
 #masthead{
 	background-color: rgba(0,0,0,0.3);
 }
@@ -34,13 +72,15 @@
 	color: #fff;
 	font-family:"NexaLight";
 	text-transform: uppercase;
-	font-size: 48px;
+	font-size: 35px;
 	line-height: 55px;
+  letter-spacing:1px;
 }
 .top-banner-caption-v1 h1{
-	margin-top: 0px;
+	margin: 0 auto 0 auto;
 	color: #fff;
 	font-family:"NexaBold";
 	text-transform: uppercase;
-	font-size: 124px;
+	font-size: 64px;
+  width:1000px;
 }
