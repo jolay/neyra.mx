@@ -436,9 +436,9 @@ p{
 	top: 0;
 	text-align: center;
 }
-.thumb-title > h5{
+.thumb-title > h3{
 	opacity: 0;
-	margin-top: 30%;
+	margin-top: 28%;
 	-webkit-transition: all .4s ease-in-out;
 	   -moz-transition: all .4s ease-in-out;
 		-ms-transition: all .4s ease-in-out;
@@ -446,7 +446,7 @@ p{
 			transition: all .4s ease-in-out;
 }
 
-.thumb-title > h5 > span{
+.thumb-title > h3 > span{
 	color: #fff;
 	font-size: 12px;
 	letter-spacing: 2px;
@@ -464,7 +464,7 @@ p{
 		 -o-transition: all .4s ease-in-out;
 			transition: all .4s ease-in-out;
 }
-.item:hover > a > .thumb-title > h5{
+.item:hover > a > .thumb-title > h3{
 	opacity: 1;
 	-webkit-transition: all .4s ease-in-out;
 	   -moz-transition: all .4s ease-in-out;

@@ -26,201 +26,252 @@
   Redirect 301 /summary/ http://www.neyra.mx/
   Redirect 301 /cgi-sys/suspendedpage.cgi http://www.neyra.mx/
   Redirect 301 /servicios/a-sitio-web-basico-precio http://www.neyra.mx/
-Redirect 301 /joomla-pages-iii/category-list/18-module-variations http://www.neyra.mx/
-Redirect 301 /index.php/component/virtuemart/publicidad-en-google http://www.neyra.mx/
-Redirect 301 /images/services/yellow/ http://www.neyra.mx/
-Redirect 301 /shop/multimedia http://www.neyra.mx/
-Redirect 301 /component/virtuemart/produccion-multimedia/multimedia-240-detail?Itemid=0 http://www.neyra.mx/
-Redirect 301 /seo/plugins/system/rokbox/themes/mynxx/ http://www.neyra.mx/
-Redirect 301 /2014-01-07-12-06-31/android http://www.neyra.mx/
-Redirect 301 /joomla-pages-ii/user-login http://www.neyra.mx/
-Redirect 301 /component/k2/itemlist/tag/Graphic http://www.neyra.mx/
-Redirect 301 /portafolio-de-servicios/comercio-electronico/comercio-electronico-180-detail/recommend?tmpl=component http://www.neyra.mx/
-Redirect 301 /seo/component/content/article/2-uncategorised/28-nuestras-garantias.html http://www.neyra.mx/
-Redirect 301 /2014-01-07-12-06-31/android/37-desarrollo-web http://www.neyra.mx/
-Redirect 301 /seo/component/content/article/11-demo-content/8-logo-editing.html http://www.neyra.mx/
-Redirect 301 /seo/web-marketing/2-uncategorised/38-planes-mensuales.html http://www.neyra.mx/
-Redirect 301 /shop/impresos/66-n-t-shirt-49-detail http://www.neyra.mx/
-Redirect 301 /promociones.swf http://www.neyra.mx/
-Redirect 301 /servicios/app-para-android-e-ios-precio http://www.neyra.mx/
-Redirect 301 /seo/plugins/system/rokbox/themes/dark/ http://www.neyra.mx/
-Redirect 301 /component/virtuemart/apps-para-mobiles/desarrollo-aplicaciones-ipad-iphone-ipod-16-detail?Itemid=0 http://www.neyra.mx/
-Redirect 301 /portafolio-de-servicios/publicidad-en-buscadores/publicidad-web-detail/recommend?tmpl=component http://www.neyra.mx/
-Redirect 301 /component/k2/item/226-desarrollo-de-sitios-web http://www.neyra.mx/
-Redirect 301 /component/virtuemart/entregables/tarjetas-detail?Itemid=0 http://www.neyra.mx/
-Redirect 301 /portafolio-de-servicios/produccion-multimedia http://www.neyra.mx/
-Redirect 301 /index.php/portafolio-de-servicios http://www.neyra.mx/
-Redirect 301 /single-project.html http://www.neyra.mx/
-Redirect 301 /seo/component/content/article/2-uncategorised/29-apps.html http://www.neyra.mx/
-Redirect 301 /2014-01-07-11-57-12/login-con-facebook-google-windows-live-twitter-y-linkedin/37-desarrollo-web http://www.neyra.mx/
-Redirect 301 /seo/component/content/article/13-fp-roktabs/21-rokgallery.html http://www.neyra.mx/
-Redirect 301 /index.php/template-articles/messages http://www.neyra.mx/
-Redirect 301 /administrator/ http://www.neyra.mx/
-Redirect 301 /joomla-pages-iii/category-list/73-price-table http://www.neyra.mx/
-Redirect 301 /servicios/desarrollo-web http://www.neyra.mx/
-Redirect 301 /index.php/component/virtuemart/multimedia-interactiva http://www.neyra.mx/
-Redirect 301 /joomla-pages-iii/category-list http://www.neyra.mx/
-Redirect 301 /component/virtuemart/comercio-electronico/comercio-electronico-120-detail?Itemid=0 http://www.neyra.mx/
-Redirect 301 /seo/plugins/system/rokbox/themes/clean/ http://www.neyra.mx/
-Redirect 301 /seo/plugins/system/rokbox/themes/sample/ http://www.neyra.mx/
-Redirect 301 /seo/plugins/system/rokbox/themes/light/ http://www.neyra.mx/
-Redirect 301 /index.php?option=com_virtuemart http://www.neyra.mx/
-Redirect 301 /index.php/portafolio-de-servicios/impresos/flyers-detalle http://www.neyra.mx/
-Redirect 301 /modules/mod_image_show_gk4/cache/servicio_seogk-is-584gk-is-584.pnglink http://www.neyra.mx/
-Redirect 301 /portafolio-de-servicios/produccion-multimedia/multimedia-180-detail/recommend?tmpl=component http://www.neyra.mx/
-Redirect 301 /portafolio-de-servicios/publicidad-en-buscadores/publicidad-en-buscadores2013-03-15-12-18-51798847208-detail/recommend?tmpl=component http://www.neyra.mx/
-Redirect 301 /component/virtuemart/publicidad-en-google http://www.neyra.mx/
-Redirect 301 /index.php/portafolio-de-servicios/desarrollo-web/c-sitio-web-comercial-detalle http://www.neyra.mx/
-Redirect 301 /ventasnorte http://www.neyra.mx/
-Redirect 301 /seo/ http://www.neyra.mx/
-Redirect 301 /images/touchicons/privacy.html http://www.neyra.mx/
-Redirect 301 /images/touchicons/support.html http://www.neyra.mx/
-Redirect 301 /images/services.html http://www.neyra.mx/
-Redirect 301 /images/plans.html http://www.neyra.mx/
-Redirect 301 /images/prettyPhoto/facebook/plans.html http://www.neyra.mx/
-Redirect 301 /images/prettyPhoto/facebook/support.html http://www.neyra.mx/
-Redirect 301 /images/prettyPhoto/light_square/plans.html http://www.neyra.mx/
-Redirect 301 /images/prettyPhoto/light_square/index.html http://www.neyra.mx/
-Redirect 301 /images/prettyPhoto/light_square/terms.html http://www.neyra.mx/
-Redirect 301 /portafolio-de-servicios/apps-para-mobiles http://www.neyra.mx/
-Redirect 301 /portafolio-de-servicios/desarrollo-web http://www.neyra.mx/
-Redirect 301 /index.php/joomla-pages-ii/password-reset http://www.neyra.mx/
-Redirect 301 /images/icons/ http://www.neyra.mx/
-Redirect 301 /portafolio-de-servicios/desarrollo-web/desarrollo-web-240-detail http://www.neyra.mx/
-Redirect 301 /inicio.swf http://www.neyra.mx/
-Redirect 301 /servicios/app-para-android-precio http://www.neyra.mx/
-Redirect 301 /component/k2/item/225-posicionamiento-en-buscadores http://www.neyra.mx/
-Redirect 301 /2014-01-07-12-06-31/android-ios-y-blackberry http://www.neyra.mx/
-Redirect 301 /2014-01-07-12-06-31/android-e-ios/37-desarrollo-web http://www.neyra.mx/
-Redirect 301 /modules/mod_image_show_gk4/cache/html5gk-is-584.pnglink http://www.neyra.mx/
-Redirect 301 /modules/mod_image_show_gk4/cache/fotogk-is-584.pnglink http://www.neyra.mx/
-Redirect 301 /images/about.html http://www.neyra.mx/
-Redirect 301 /portafolio-de-servicios/produccion-multimedia/multimedia-240-detail/recommend?tmpl=component http://www.neyra.mx/
-Redirect 301 /portafolio-de-servicios/comercio-electronico/comercio-electronico-120-detail/recommend?tmpl=component http://www.neyra.mx/
-Redirect 301 /images/touchicons/services.html http://www.neyra.mx/
-Redirect 301 /index.php?option=com_contact&view=contact&id=2&Itemid=623 http://www.neyra.mx/
-Redirect 301 /images/prettyPhoto/light_square/privacy.html http://www.neyra.mx/
-Redirect 301 /images/prettyPhoto/light_square/about.html http://www.neyra.mx/
-Redirect 301 /images/prettyPhoto/light_square/contact.html http://www.neyra.mx/
-Redirect 301 /images/prettyPhoto/light_square/faq.html http://www.neyra.mx/
-Redirect 301 /images/prettyPhoto/light_square/services.html http://www.neyra.mx/
-Redirect 301 /images/prettyPhoto/light_square/support.html http://www.neyra.mx/
-Redirect 301 /images/touchicons/contact.html http://www.neyra.mx/
-Redirect 301 /images/privacy.html http://www.neyra.mx/
-Redirect 301 /images/touchicons/terms.html http://www.neyra.mx/
-Redirect 301 /images/touchicons/plans.html http://www.neyra.mx/
-Redirect 301 /images/touchicons/index.html http://www.neyra.mx/
-Redirect 301 /images/touchicons/faq.html http://www.neyra.mx/
-Redirect 301 /images/touchicons/about.html http://www.neyra.mx/
-Redirect 301 /images/terms.html http://www.neyra.mx/
-Redirect 301 /images/prettyPhoto/facebook/services.html http://www.neyra.mx/
-Redirect 301 /images/index.html http://www.neyra.mx/
-Redirect 301 /images/faq.html http://www.neyra.mx/
-Redirect 301 /images/contact.html http://www.neyra.mx/
-Redirect 301 /images/support.html http://www.neyra.mx/
-Redirect 301 /images/prettyPhoto/facebook/terms.html http://www.neyra.mx/
-Redirect 301 /images/prettyPhoto/facebook/privacy.html http://www.neyra.mx/
-Redirect 301 /images/prettyPhoto/facebook/index.html http://www.neyra.mx/
-Redirect 301 /images/prettyPhoto/facebook/faq.html http://www.neyra.mx/
-Redirect 301 /images/prettyPhoto/facebook/contact.html http://www.neyra.mx/
-Redirect 301 /images/prettyPhoto/facebook/about.html http://www.neyra.mx/
-Redirect 301 /index.php/portafolio-de-servicios/desarrollo-web/f-desarrollo-por-hora-detalle http://www.neyra.mx/
-Redirect 301 /servicios/app-para-android-blackberry-e-ios-precio http://www.neyra.mx/
-Redirect 301 /joomla-pages-iii/category-list/2-module-positions http://www.neyra.mx/
-Redirect 301 /seo/component/content/article/2-uncategorised/34-adwords.html http://www.neyra.mx/
-Redirect 301 /component/virtuemart/desarrollo-web/sitio-web-basico-detail?Itemid=0 http://www.neyra.mx/
-Redirect 301 /inicio2.swf http://www.neyra.mx/
-Redirect 301 /portafolio-de-servicios/desarrollo-web/desarrollo-web-180-detail/recommend?tmpl=component http://www.neyra.mx/
-Redirect 301 /cgi-sys/suspendedpage.cgi http://www.neyra.mx/
-Redirect 301 /portafolio-de-servicios/entregable http://www.neyra.mx/
-Redirect 301 /seo/component/content/article/2-uncategorised/29-apps.html http://www.neyra.mx/
-Redirect 301 /2014-01-07-11-57-12/login-con-facebook-google-windows-live-twitter-y-linkedin/37-desarrollo-web http://www.neyra.mx/
-Redirect 301 /seo/component/content/article/13-fp-roktabs/21-rokgallery.html http://www.neyra.mx/
-Redirect 301 /index.php/template-articles/messages http://www.neyra.mx/
-Redirect 301 /administrator/ http://www.neyra.mx/
-Redirect 301 /joomla-pages-iii/category-list/73-price-table http://www.neyra.mx/
-Redirect 301 /servicios/desarrollo-web http://www.neyra.mx/
-Redirect 301 /index.php/component/virtuemart/multimedia-interactiva http://www.neyra.mx/
-Redirect 301 /joomla-pages-iii/category-list http://www.neyra.mx/
-Redirect 301 /component/virtuemart/comercio-electronico/comercio-electronico-120-detail?Itemid=0 http://www.neyra.mx/
-Redirect 301 /seo/plugins/system/rokbox/themes/clean/ http://www.neyra.mx/
-Redirect 301 /seo/plugins/system/rokbox/themes/sample/ http://www.neyra.mx/
-Redirect 301 /seo/plugins/system/rokbox/themes/light/ http://www.neyra.mx/
-Redirect 301 /index.php?option=com_virtuemart http://www.neyra.mx/
-Redirect 301 /index.php/portafolio-de-servicios/impresos/flyers-detalle http://www.neyra.mx/
-Redirect 301 /modules/mod_image_show_gk4/cache/servicio_seogk-is-584gk-is-584.pnglink http://www.neyra.mx/
-Redirect 301 /portafolio-de-servicios/produccion-multimedia/multimedia-180-detail/recommend?tmpl=component http://www.neyra.mx/
-Redirect 301 /portafolio-de-servicios/publicidad-en-buscadores/publicidad-en-buscadores2013-03-15-12-18-51798847208-detail/recommend?tmpl=component http://www.neyra.mx/
-Redirect 301 /component/virtuemart/publicidad-en-google http://www.neyra.mx/
-Redirect 301 /index.php/portafolio-de-servicios/desarrollo-web/c-sitio-web-comercial-detalle http://www.neyra.mx/
-Redirect 301 /ventasnorte http://www.neyra.mx/
-Redirect 301 /seo/ http://www.neyra.mx/
-Redirect 301 /images/touchicons/privacy.html http://www.neyra.mx/
-Redirect 301 /images/touchicons/support.html http://www.neyra.mx/
-Redirect 301 /images/services.html http://www.neyra.mx/
-Redirect 301 /images/plans.html http://www.neyra.mx/
-Redirect 301 /images/prettyPhoto/facebook/plans.html http://www.neyra.mx/
-Redirect 301 /images/prettyPhoto/facebook/support.html http://www.neyra.mx/
-Redirect 301 /images/prettyPhoto/light_square/plans.html http://www.neyra.mx/
-Redirect 301 /images/prettyPhoto/light_square/index.html http://www.neyra.mx/
-Redirect 301 /images/prettyPhoto/light_square/terms.html http://www.neyra.mx/
-Redirect 301 /portafolio-de-servicios/apps-para-mobiles http://www.neyra.mx/
-Redirect 301 /portafolio-de-servicios/desarrollo-web http://www.neyra.mx/
-Redirect 301 /index.php/joomla-pages-ii/password-reset http://www.neyra.mx/
-Redirect 301 /images/icons/ http://www.neyra.mx/
-Redirect 301 /portafolio-de-servicios/desarrollo-web/desarrollo-web-240-detail http://www.neyra.mx/
-Redirect 301 /inicio.swf http://www.neyra.mx/
-Redirect 301 /servicios/app-para-android-precio http://www.neyra.mx/
-Redirect 301 /component/k2/item/225-posicionamiento-en-buscadores http://www.neyra.mx/
-Redirect 301 /2014-01-07-12-06-31/android-ios-y-blackberry http://www.neyra.mx/
-Redirect 301 /2014-01-07-12-06-31/android-e-ios/37-desarrollo-web http://www.neyra.mx/
-Redirect 301 /modules/mod_image_show_gk4/cache/html5gk-is-584.pnglink http://www.neyra.mx/
-Redirect 301 /modules/mod_image_show_gk4/cache/fotogk-is-584.pnglink http://www.neyra.mx/
-Redirect 301 /images/about.html http://www.neyra.mx/
-Redirect 301 /portafolio-de-servicios/produccion-multimedia/multimedia-240-detail/recommend?tmpl=component http://www.neyra.mx/
-Redirect 301 /portafolio-de-servicios/comercio-electronico/comercio-electronico-120-detail/recommend?tmpl=component http://www.neyra.mx/
-Redirect 301 /images/touchicons/services.html http://www.neyra.mx/
-Redirect 301 /index.php?option=com_contact&view=contact&id=2&Itemid=623 http://www.neyra.mx/
-Redirect 301 /images/prettyPhoto/light_square/privacy.html http://www.neyra.mx/
-Redirect 301 /images/prettyPhoto/light_square/about.html http://www.neyra.mx/
-Redirect 301 /images/prettyPhoto/light_square/contact.html http://www.neyra.mx/
-Redirect 301 /images/prettyPhoto/light_square/faq.html http://www.neyra.mx/
-Redirect 301 /images/prettyPhoto/light_square/services.html http://www.neyra.mx/
-Redirect 301 /images/prettyPhoto/light_square/support.html http://www.neyra.mx/
-Redirect 301 /images/touchicons/contact.html http://www.neyra.mx/
-Redirect 301 /images/privacy.html http://www.neyra.mx/
-Redirect 301 /images/touchicons/terms.html http://www.neyra.mx/
-Redirect 301 /images/touchicons/plans.html http://www.neyra.mx/
-Redirect 301 /images/touchicons/index.html http://www.neyra.mx/
-Redirect 301 /images/touchicons/faq.html http://www.neyra.mx/
-Redirect 301 /images/touchicons/about.html http://www.neyra.mx/
-Redirect 301 /images/terms.html http://www.neyra.mx/
-Redirect 301 /images/prettyPhoto/facebook/services.html http://www.neyra.mx/
-Redirect 301 /images/index.html http://www.neyra.mx/
-Redirect 301 /images/faq.html http://www.neyra.mx/
-Redirect 301 /images/contact.html http://www.neyra.mx/
-Redirect 301 /images/support.html http://www.neyra.mx/
-Redirect 301 /images/prettyPhoto/facebook/terms.html http://www.neyra.mx/
-Redirect 301 /images/prettyPhoto/facebook/privacy.html http://www.neyra.mx/
-Redirect 301 /images/prettyPhoto/facebook/index.html http://www.neyra.mx/
-Redirect 301 /images/prettyPhoto/facebook/faq.html http://www.neyra.mx/
-Redirect 301 /images/prettyPhoto/facebook/contact.html http://www.neyra.mx/
-Redirect 301 /images/prettyPhoto/facebook/about.html http://www.neyra.mx/
-Redirect 301 /index.php/portafolio-de-servicios/desarrollo-web/f-desarrollo-por-hora-detalle http://www.neyra.mx/
-Redirect 301 /servicios/app-para-android-blackberry-e-ios-precio http://www.neyra.mx/
-Redirect 301 /joomla-pages-iii/category-list/2-module-positions http://www.neyra.mx/
-Redirect 301 /seo/component/content/article/2-uncategorised/34-adwords.html http://www.neyra.mx/
-Redirect 301 /component/virtuemart/desarrollo-web/sitio-web-basico-detail?Itemid=0 http://www.neyra.mx/
-Redirect 301 /inicio2.swf http://www.neyra.mx/
-Redirect 301 /portafolio-de-servicios/desarrollo-web/desarrollo-web-180-detail/recommend?tmpl=component http://www.neyra.mx/
-Redirect 301 /cgi-sys/suspendedpage.cgi http://www.neyra.mx/
-Redirect 301 /portafolio-de-servicios/entregable http://www.neyra.mx/
-Redirect 301 /index.php/portafolio-de-servicios/desarrollo-web/f-desarrollo-por-hora-detalle http://www.neyra.mx/
-Redirect 301 /servicios/app-para-android-blackberry-e-ios-precio http://www.neyra.mx/
-Redirect 301 /joomla-pages-iii/category-list/2-module-positions http://www.neyra.mx/
-Redirect 301 /seo/component/content/article/2-uncategorised/34-adwords.html http://www.neyra.mx/
-Redirect 301 /component/virtuemart/desarrollo-web/sitio-web-basico-detail?Itemid=0 http://www.neyra.mx/
-Redirect 301 /inicio2.swf http://www.neyra.mx/
-Redirect 301 /portafolio-de-servicios/desarrollo-web/desarrollo-web-180-detail/recommend?tmpl=component http://www.neyra.mx/
-Redirect 301 /cgi-sys/suspendedpage.cgi http://www.neyra.mx/
-Redirect 301 /portafolio-de-servici http://www.neyra.mx/os/entregables
+  Redirect 301 /joomla-pages-iii/category-list/18-module-variations http://www.neyra.mx/
+  Redirect 301 /index.php/component/virtuemart/publicidad-en-google http://www.neyra.mx/
+  Redirect 301 /images/services/yellow/ http://www.neyra.mx/
+  Redirect 301 /shop/multimedia http://www.neyra.mx/
+  Redirect 301 /component/virtuemart/produccion-multimedia/multimedia-240-detail?Itemid=0 http://www.neyra.mx/
+  Redirect 301 /seo/plugins/system/rokbox/themes/mynxx/ http://www.neyra.mx/
+  Redirect 301 /2014-01-07-12-06-31/android http://www.neyra.mx/
+  Redirect 301 /joomla-pages-ii/user-login http://www.neyra.mx/
+  Redirect 301 /component/k2/itemlist/tag/Graphic http://www.neyra.mx/
+  Redirect 301 /portafolio-de-servicios/comercio-electronico/comercio-electronico-180-detail/recommend?tmpl=component http://www.neyra.mx/
+  Redirect 301 /seo/component/content/article/2-uncategorised/28-nuestras-garantias.html http://www.neyra.mx/
+  Redirect 301 /2014-01-07-12-06-31/android/37-desarrollo-web http://www.neyra.mx/
+  Redirect 301 /seo/component/content/article/11-demo-content/8-logo-editing.html http://www.neyra.mx/
+  Redirect 301 /seo/web-marketing/2-uncategorised/38-planes-mensuales.html http://www.neyra.mx/
+  Redirect 301 /shop/impresos/66-n-t-shirt-49-detail http://www.neyra.mx/
+  Redirect 301 /promociones.swf http://www.neyra.mx/
+  Redirect 301 /servicios/app-para-android-e-ios-precio http://www.neyra.mx/
+  Redirect 301 /seo/plugins/system/rokbox/themes/dark/ http://www.neyra.mx/
+  Redirect 301 /component/virtuemart/apps-para-mobiles/desarrollo-aplicaciones-ipad-iphone-ipod-16-detail?Itemid=0 http://www.neyra.mx/
+  Redirect 301 /portafolio-de-servicios/publicidad-en-buscadores/publicidad-web-detail/recommend?tmpl=component http://www.neyra.mx/
+  Redirect 301 /component/k2/item/226-desarrollo-de-sitios-web http://www.neyra.mx/
+  Redirect 301 /component/virtuemart/entregables/tarjetas-detail?Itemid=0 http://www.neyra.mx/
+  Redirect 301 /portafolio-de-servicios/produccion-multimedia http://www.neyra.mx/
+  Redirect 301 /index.php/portafolio-de-servicios http://www.neyra.mx/
+  Redirect 301 /single-project.html http://www.neyra.mx/
+  Redirect 301 /seo/component/content/article/2-uncategorised/29-apps.html http://www.neyra.mx/
+  Redirect 301 /2014-01-07-11-57-12/login-con-facebook-google-windows-live-twitter-y-linkedin/37-desarrollo-web http://www.neyra.mx/
+  Redirect 301 /seo/component/content/article/13-fp-roktabs/21-rokgallery.html http://www.neyra.mx/
+  Redirect 301 /index.php/template-articles/messages http://www.neyra.mx/
+  Redirect 301 /administrator/ http://www.neyra.mx/
+  Redirect 301 /joomla-pages-iii/category-list/73-price-table http://www.neyra.mx/
+  Redirect 301 /servicios/desarrollo-web http://www.neyra.mx/
+  Redirect 301 /index.php/component/virtuemart/multimedia-interactiva http://www.neyra.mx/
+  Redirect 301 /joomla-pages-iii/category-list http://www.neyra.mx/
+  Redirect 301 /component/virtuemart/comercio-electronico/comercio-electronico-120-detail?Itemid=0 http://www.neyra.mx/
+  Redirect 301 /seo/plugins/system/rokbox/themes/clean/ http://www.neyra.mx/
+  Redirect 301 /seo/plugins/system/rokbox/themes/sample/ http://www.neyra.mx/
+  Redirect 301 /seo/plugins/system/rokbox/themes/light/ http://www.neyra.mx/
+  Redirect 301 /index.php?option=com_virtuemart http://www.neyra.mx/
+  Redirect 301 /index.php/portafolio-de-servicios/impresos/flyers-detalle http://www.neyra.mx/
+  Redirect 301 /modules/mod_image_show_gk4/cache/servicio_seogk-is-584gk-is-584.pnglink http://www.neyra.mx/
+  Redirect 301 /portafolio-de-servicios/produccion-multimedia/multimedia-180-detail/recommend?tmpl=component http://www.neyra.mx/
+  Redirect 301 /portafolio-de-servicios/publicidad-en-buscadores/publicidad-en-buscadores2013-03-15-12-18-51798847208-detail/recommend?tmpl=component http://www.neyra.mx/
+  Redirect 301 /component/virtuemart/publicidad-en-google http://www.neyra.mx/
+  Redirect 301 /index.php/portafolio-de-servicios/desarrollo-web/c-sitio-web-comercial-detalle http://www.neyra.mx/
+  Redirect 301 /ventasnorte http://www.neyra.mx/
+  Redirect 301 /seo/ http://www.neyra.mx/
+  Redirect 301 /images/touchicons/privacy.html http://www.neyra.mx/
+  Redirect 301 /images/touchicons/support.html http://www.neyra.mx/
+  Redirect 301 /images/services.html http://www.neyra.mx/
+  Redirect 301 /images/plans.html http://www.neyra.mx/
+  Redirect 301 /images/prettyPhoto/facebook/plans.html http://www.neyra.mx/
+  Redirect 301 /images/prettyPhoto/facebook/support.html http://www.neyra.mx/
+  Redirect 301 /images/prettyPhoto/light_square/plans.html http://www.neyra.mx/
+  Redirect 301 /images/prettyPhoto/light_square/index.html http://www.neyra.mx/
+  Redirect 301 /images/prettyPhoto/light_square/terms.html http://www.neyra.mx/
+  Redirect 301 /portafolio-de-servicios/apps-para-mobiles http://www.neyra.mx/
+  Redirect 301 /portafolio-de-servicios/desarrollo-web http://www.neyra.mx/
+  Redirect 301 /index.php/joomla-pages-ii/password-reset http://www.neyra.mx/
+  Redirect 301 /images/icons/ http://www.neyra.mx/
+  Redirect 301 /portafolio-de-servicios/desarrollo-web/desarrollo-web-240-detail http://www.neyra.mx/
+  Redirect 301 /inicio.swf http://www.neyra.mx/
+  Redirect 301 /servicios/app-para-android-precio http://www.neyra.mx/
+  Redirect 301 /component/k2/item/225-posicionamiento-en-buscadores http://www.neyra.mx/
+  Redirect 301 /2014-01-07-12-06-31/android-ios-y-blackberry http://www.neyra.mx/
+  Redirect 301 /2014-01-07-12-06-31/android-e-ios/37-desarrollo-web http://www.neyra.mx/
+  Redirect 301 /modules/mod_image_show_gk4/cache/html5gk-is-584.pnglink http://www.neyra.mx/
+  Redirect 301 /modules/mod_image_show_gk4/cache/fotogk-is-584.pnglink http://www.neyra.mx/
+  Redirect 301 /images/about.html http://www.neyra.mx/
+  Redirect 301 /portafolio-de-servicios/produccion-multimedia/multimedia-240-detail/recommend?tmpl=component http://www.neyra.mx/
+  Redirect 301 /portafolio-de-servicios/comercio-electronico/comercio-electronico-120-detail/recommend?tmpl=component http://www.neyra.mx/
+  Redirect 301 /images/touchicons/services.html http://www.neyra.mx/
+  Redirect 301 /index.php?option=com_contact&view=contact&id=2&Itemid=623 http://www.neyra.mx/
+  Redirect 301 /images/prettyPhoto/light_square/privacy.html http://www.neyra.mx/
+  Redirect 301 /images/prettyPhoto/light_square/about.html http://www.neyra.mx/
+  Redirect 301 /images/prettyPhoto/light_square/contact.html http://www.neyra.mx/
+  Redirect 301 /images/prettyPhoto/light_square/faq.html http://www.neyra.mx/
+  Redirect 301 /images/prettyPhoto/light_square/services.html http://www.neyra.mx/
+  Redirect 301 /images/prettyPhoto/light_square/support.html http://www.neyra.mx/
+  Redirect 301 /images/touchicons/contact.html http://www.neyra.mx/
+  Redirect 301 /images/privacy.html http://www.neyra.mx/
+  Redirect 301 /images/touchicons/terms.html http://www.neyra.mx/
+  Redirect 301 /images/touchicons/plans.html http://www.neyra.mx/
+  Redirect 301 /images/touchicons/index.html http://www.neyra.mx/
+  Redirect 301 /images/touchicons/faq.html http://www.neyra.mx/
+  Redirect 301 /images/touchicons/about.html http://www.neyra.mx/
+  Redirect 301 /images/terms.html http://www.neyra.mx/
+  Redirect 301 /images/prettyPhoto/facebook/services.html http://www.neyra.mx/
+  Redirect 301 /images/index.html http://www.neyra.mx/
+  Redirect 301 /images/faq.html http://www.neyra.mx/
+  Redirect 301 /images/contact.html http://www.neyra.mx/
+  Redirect 301 /images/support.html http://www.neyra.mx/
+  Redirect 301 /images/prettyPhoto/facebook/terms.html http://www.neyra.mx/
+  Redirect 301 /images/prettyPhoto/facebook/privacy.html http://www.neyra.mx/
+  Redirect 301 /images/prettyPhoto/facebook/index.html http://www.neyra.mx/
+  Redirect 301 /images/prettyPhoto/facebook/faq.html http://www.neyra.mx/
+  Redirect 301 /images/prettyPhoto/facebook/contact.html http://www.neyra.mx/
+  Redirect 301 /images/prettyPhoto/facebook/about.html http://www.neyra.mx/
+  Redirect 301 /index.php/portafolio-de-servicios/desarrollo-web/f-desarrollo-por-hora-detalle http://www.neyra.mx/
+  Redirect 301 /servicios/app-para-android-blackberry-e-ios-precio http://www.neyra.mx/
+  Redirect 301 /joomla-pages-iii/category-list/2-module-positions http://www.neyra.mx/
+  Redirect 301 /seo/component/content/article/2-uncategorised/34-adwords.html http://www.neyra.mx/
+  Redirect 301 /component/virtuemart/desarrollo-web/sitio-web-basico-detail?Itemid=0 http://www.neyra.mx/
+  Redirect 301 /inicio2.swf http://www.neyra.mx/
+  Redirect 301 /portafolio-de-servicios/desarrollo-web/desarrollo-web-180-detail/recommend?tmpl=component http://www.neyra.mx/
+  Redirect 301 /cgi-sys/suspendedpage.cgi http://www.neyra.mx/
+  Redirect 301 /portafolio-de-servicios/entregable http://www.neyra.mx/
+  Redirect 301 /seo/component/content/article/2-uncategorised/29-apps.html http://www.neyra.mx/
+  Redirect 301 /2014-01-07-11-57-12/login-con-facebook-google-windows-live-twitter-y-linkedin/37-desarrollo-web http://www.neyra.mx/
+  Redirect 301 /seo/component/content/article/13-fp-roktabs/21-rokgallery.html http://www.neyra.mx/
+  Redirect 301 /index.php/template-articles/messages http://www.neyra.mx/
+  Redirect 301 /administrator/ http://www.neyra.mx/
+  Redirect 301 /joomla-pages-iii/category-list/73-price-table http://www.neyra.mx/
+  Redirect 301 /servicios/desarrollo-web http://www.neyra.mx/
+  Redirect 301 /index.php/component/virtuemart/multimedia-interactiva http://www.neyra.mx/
+  Redirect 301 /joomla-pages-iii/category-list http://www.neyra.mx/
+  Redirect 301 /component/virtuemart/comercio-electronico/comercio-electronico-120-detail?Itemid=0 http://www.neyra.mx/
+  Redirect 301 /seo/plugins/system/rokbox/themes/clean/ http://www.neyra.mx/
+  Redirect 301 /seo/plugins/system/rokbox/themes/sample/ http://www.neyra.mx/
+  Redirect 301 /seo/plugins/system/rokbox/themes/light/ http://www.neyra.mx/
+  Redirect 301 /index.php?option=com_virtuemart http://www.neyra.mx/
+  Redirect 301 /index.php/portafolio-de-servicios/impresos/flyers-detalle http://www.neyra.mx/
+  Redirect 301 /modules/mod_image_show_gk4/cache/servicio_seogk-is-584gk-is-584.pnglink http://www.neyra.mx/
+  Redirect 301 /portafolio-de-servicios/produccion-multimedia/multimedia-180-detail/recommend?tmpl=component http://www.neyra.mx/
+  Redirect 301 /portafolio-de-servicios/publicidad-en-buscadores/publicidad-en-buscadores2013-03-15-12-18-51798847208-detail/recommend?tmpl=component http://www.neyra.mx/
+  Redirect 301 /component/virtuemart/publicidad-en-google http://www.neyra.mx/
+  Redirect 301 /index.php/portafolio-de-servicios/desarrollo-web/c-sitio-web-comercial-detalle http://www.neyra.mx/
+  Redirect 301 /ventasnorte http://www.neyra.mx/
+  Redirect 301 /seo/ http://www.neyra.mx/
+  Redirect 301 /images/touchicons/privacy.html http://www.neyra.mx/
+  Redirect 301 /images/touchicons/support.html http://www.neyra.mx/
+  Redirect 301 /images/services.html http://www.neyra.mx/
+  Redirect 301 /images/plans.html http://www.neyra.mx/
+  Redirect 301 /images/prettyPhoto/facebook/plans.html http://www.neyra.mx/
+  Redirect 301 /images/prettyPhoto/facebook/support.html http://www.neyra.mx/
+  Redirect 301 /images/prettyPhoto/light_square/plans.html http://www.neyra.mx/
+  Redirect 301 /images/prettyPhoto/light_square/index.html http://www.neyra.mx/
+  Redirect 301 /images/prettyPhoto/light_square/terms.html http://www.neyra.mx/
+  Redirect 301 /portafolio-de-servicios/apps-para-mobiles http://www.neyra.mx/
+  Redirect 301 /portafolio-de-servicios/desarrollo-web http://www.neyra.mx/
+  Redirect 301 /index.php/joomla-pages-ii/password-reset http://www.neyra.mx/
+  Redirect 301 /images/icons/ http://www.neyra.mx/
+  Redirect 301 /portafolio-de-servicios/desarrollo-web/desarrollo-web-240-detail http://www.neyra.mx/
+  Redirect 301 /inicio.swf http://www.neyra.mx/
+  Redirect 301 /servicios/app-para-android-precio http://www.neyra.mx/
+  Redirect 301 /component/k2/item/225-posicionamiento-en-buscadores http://www.neyra.mx/
+  Redirect 301 /2014-01-07-12-06-31/android-ios-y-blackberry http://www.neyra.mx/
+  Redirect 301 /2014-01-07-12-06-31/android-e-ios/37-desarrollo-web http://www.neyra.mx/
+  Redirect 301 /modules/mod_image_show_gk4/cache/html5gk-is-584.pnglink http://www.neyra.mx/
+  Redirect 301 /modules/mod_image_show_gk4/cache/fotogk-is-584.pnglink http://www.neyra.mx/
+  Redirect 301 /images/about.html http://www.neyra.mx/
+  Redirect 301 /portafolio-de-servicios/produccion-multimedia/multimedia-240-detail/recommend?tmpl=component http://www.neyra.mx/
+  Redirect 301 /portafolio-de-servicios/comercio-electronico/comercio-electronico-120-detail/recommend?tmpl=component http://www.neyra.mx/
+  Redirect 301 /images/touchicons/services.html http://www.neyra.mx/
+  Redirect 301 /index.php?option=com_contact&view=contact&id=2&Itemid=623 http://www.neyra.mx/
+  Redirect 301 /images/prettyPhoto/light_square/privacy.html http://www.neyra.mx/
+  Redirect 301 /images/prettyPhoto/light_square/about.html http://www.neyra.mx/
+  Redirect 301 /images/prettyPhoto/light_square/contact.html http://www.neyra.mx/
+  Redirect 301 /images/prettyPhoto/light_square/faq.html http://www.neyra.mx/
+  Redirect 301 /images/prettyPhoto/light_square/services.html http://www.neyra.mx/
+  Redirect 301 /images/prettyPhoto/light_square/support.html http://www.neyra.mx/
+  Redirect 301 /images/touchicons/contact.html http://www.neyra.mx/
+  Redirect 301 /images/privacy.html http://www.neyra.mx/
+  Redirect 301 /images/touchicons/terms.html http://www.neyra.mx/
+  Redirect 301 /images/touchicons/plans.html http://www.neyra.mx/
+  Redirect 301 /images/touchicons/index.html http://www.neyra.mx/
+  Redirect 301 /images/touchicons/faq.html http://www.neyra.mx/
+  Redirect 301 /images/touchicons/about.html http://www.neyra.mx/
+  Redirect 301 /images/terms.html http://www.neyra.mx/
+  Redirect 301 /images/prettyPhoto/facebook/services.html http://www.neyra.mx/
+  Redirect 301 /images/index.html http://www.neyra.mx/
+  Redirect 301 /images/faq.html http://www.neyra.mx/
+  Redirect 301 /images/contact.html http://www.neyra.mx/
+  Redirect 301 /images/support.html http://www.neyra.mx/
+  Redirect 301 /images/prettyPhoto/facebook/terms.html http://www.neyra.mx/
+  Redirect 301 /images/prettyPhoto/facebook/privacy.html http://www.neyra.mx/
+  Redirect 301 /images/prettyPhoto/facebook/index.html http://www.neyra.mx/
+  Redirect 301 /images/prettyPhoto/facebook/faq.html http://www.neyra.mx/
+  Redirect 301 /images/prettyPhoto/facebook/contact.html http://www.neyra.mx/
+  Redirect 301 /images/prettyPhoto/facebook/about.html http://www.neyra.mx/
+  Redirect 301 /index.php/portafolio-de-servicios/desarrollo-web/f-desarrollo-por-hora-detalle http://www.neyra.mx/
+  Redirect 301 /servicios/app-para-android-blackberry-e-ios-precio http://www.neyra.mx/
+  Redirect 301 /joomla-pages-iii/category-list/2-module-positions http://www.neyra.mx/
+  Redirect 301 /seo/component/content/article/2-uncategorised/34-adwords.html http://www.neyra.mx/
+  Redirect 301 /component/virtuemart/desarrollo-web/sitio-web-basico-detail?Itemid=0 http://www.neyra.mx/
+  Redirect 301 /inicio2.swf http://www.neyra.mx/
+  Redirect 301 /portafolio-de-servicios/desarrollo-web/desarrollo-web-180-detail/recommend?tmpl=component http://www.neyra.mx/
+  Redirect 301 /cgi-sys/suspendedpage.cgi http://www.neyra.mx/
+  Redirect 301 /portafolio-de-servicios/entregable http://www.neyra.mx/
+  Redirect 301 /index.php/portafolio-de-servicios/desarrollo-web/f-desarrollo-por-hora-detalle http://www.neyra.mx/
+  Redirect 301 /servicios/app-para-android-blackberry-e-ios-precio http://www.neyra.mx/
+  Redirect 301 /joomla-pages-iii/category-list/2-module-positions http://www.neyra.mx/
+  Redirect 301 /seo/component/content/article/2-uncategorised/34-adwords.html http://www.neyra.mx/
+  Redirect 301 /component/virtuemart/desarrollo-web/sitio-web-basico-detail?Itemid=0 http://www.neyra.mx/
+  Redirect 301 /inicio2.swf http://www.neyra.mx/
+  Redirect 301 /portafolio-de-servicios/desarrollo-web/desarrollo-web-180-detail/recommend?tmpl=component http://www.neyra.mx/
+  Redirect 301 /cgi-sys/suspendedpage.cgi http://www.neyra.mx/
+  Redirect 301 /portafolio-de-servici http://www.neyra.mx/os/entregables
+  Redirect 301 /component/k2/item/142-ortopedicos-web http://www.neyra.mx/
+  Redirect 301 /component/k2/item/154-merengues-light http://www.neyra.mx/
+  Redirect 301 /component/virtuemart/apps-para-mobiles http://www.neyra.mx/
+  Redirect 301 /component/virtuemart/apps-para-mobiles/ http://www.neyra.mx/
+  Redirect 301 /component/virtuemart/apps-para-mobiles/by,category_name?Itemid= http://www.neyra.mx/
+  Redirect 301 /component/virtuemart/apps-para-mobiles/desarrollo-aplicaciones-android-detail?Itemid=0 http://www.neyra.mx/
+  Redirect 301 /component/virtuemart/apps-para-mobiles/desarrollo-aplicaciones-blackberry-detail?Itemid=0 http://www.neyra.mx/
+  Redirect 301 /component/virtuemart/apps-para-mobiles/desarrollo-aplicaciones-ipad-iphone-ipod-16-detail?Itemid=0 http://www.neyra.mx/
+  Redirect 301 /component/virtuemart/apps-para-mobiles/orderDesc?Itemid= http://www.neyra.mx/
+  Redirect 301 /component/virtuemart/comercio-electronico http://www.neyra.mx/
+  Redirect 301 /component/virtuemart/comercio-electronico/ http://www.neyra.mx/
+  Redirect 301 /component/virtuemart/comercio-electronico/by,category_name?Itemid= http://www.neyra.mx/
+  Redirect 301 /component/virtuemart/comercio-electronico/comercio-electronico-240-detail?Itemid=0 http://www.neyra.mx/
+  Redirect 301 /component/virtuemart/desarrollo-web http://www.neyra.mx/
+  Redirect 301 /component/virtuemart/desarrollo-web/ http://www.neyra.mx/
+  Redirect 301 /component/virtuemart/desarrollo-web/by,category_name?Itemid= http://www.neyra.mx/
+  Redirect 301 /component/virtuemart/desarrollo-web/mantenimiento-web-detail?Itemid=0 http://www.neyra.mx/
+  Redirect 301 /component/virtuemart/desarrollo-web/sitio-web-basico-detail?Itemid=0 http://www.neyra.mx/
+  Redirect 301 /component/virtuemart/desarrollo-web/sitio-web-comercial-detail?Itemid=0 http://www.neyra.mx/
+  Redirect 301 /component/virtuemart/desarrollo-web/sitio-web-empresarial-detail?Itemid=0 http://www.neyra.mx/
+  Redirect 301 /component/virtuemart/entregables/by,category_name?Itemid= http://www.neyra.mx/
+  Redirect 301 /component/virtuemart/entregables/catalogos-detail?Itemid=0 http://www.neyra.mx/
+  Redirect 301 /component/virtuemart/entregables/flyers-detail?Itemid=0 http://www.neyra.mx/
+  Redirect 301 /component/virtuemart/entregables/postales-detail?Itemid=0 http://www.neyra.mx/
+  Redirect 301 /component/virtuemart/entregables/tarjetas-detail?Itemid=0 http://www.neyra.mx/
+  Redirect 301 /component/virtuemart/produccion-multimedia/ http://www.neyra.mx/
+  Redirect 301 /component/virtuemart/produccion-multimedia/multimedia-120-detail?Itemid=0 http://www.neyra.mx/
+  Redirect 301 /component/virtuemart/produccion-multimedia/multimedia-180-detail?Itemid=0 http://www.neyra.mx/
+  Redirect 301 /component/virtuemart/produccion-multimedia/multimedia-240-detail?Itemid=0 http://www.neyra.mx/
+  Redirect 301 /component/virtuemart/publicidad-en-buscadores http://www.neyra.mx/
+  Redirect 301 /component/virtuemart/publicidad-en-buscadores/ http://www.neyra.mx/
+  Redirect 301 /component/virtuemart/publicidad-en-buscadores/publicidad-en-buscadores-detail?Itemid=0 http://www.neyra.mx/
+  Redirect 301 /joomla-pages-ii/ http://www.neyra.mx/
+  Redirect 301 /joomla-pages-ii/password-reset http://www.neyra.mx/
+  Redirect 301 /joomla-pages-ii/user-registration http://www.neyra.mx/
+  Redirect 301 /portafolio-de-servicios/ http://www.neyra.mx/
+  Redirect 301 /portafolio-de-servicios/apps-para-mobiles http://www.neyra.mx/
+  Redirect 301 /portafolio-de-servicios/apps-para-mobiles/by,category_name http://www.neyra.mx/
+  Redirect 301 /portafolio-de-servicios/apps-para-mobiles/by,mf_name http://www.neyra.mx/
+  Redirect 301 /portafolio-de-servicios/apps-para-mobiles/orderDesc http://www.neyra.mx/
+  Redirect 301 /portafolio-de-servicios/comercio-electronico http://www.neyra.mx/
+  Redirect 301 /portafolio-de-servicios/comercio-electronico/by,category_name http://www.neyra.mx/
+  Redirect 301 /portafolio-de-servicios/comercio-electronico/orderDesc http://www.neyra.mx/
+  Redirect 301 /portafolio-de-servicios/desarrollo-web http://www.neyra.mx/
+  Redirect 301 /portafolio-de-servicios/desarrollo-web/orderDesc http://www.neyra.mx/
+  Redirect 301 /portafolio-de-servicios/entregables/by,mf_name http://www.neyra.mx/
+  Redirect 301 /portafolio-de-servicios/produccion-multimedia/by,category_name http://www.neyra.mx/
+  Redirect 301 /portafolio-de-servicios/produccion-multimedia/by,mf_name http://www.neyra.mx/
+  Redirect 301 /portafolio-de-servicios/publicidad-en-buscadores http://www.neyra.mx/
+  Redirect 301 /portafolio-de-servicios/publicidad-en-buscadores/by,category_name http://www.neyra.mx/
+  Redirect 301 /portafolio-de-servicios/publicidad-en-buscadores/by,mf_name http://www.neyra.mx/
