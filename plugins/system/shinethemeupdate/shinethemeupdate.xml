@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.1" type="plugin" group="system" method="upgrade">
+	<name>ST Update</name>
+	<creationDate>Aug 2013</creationDate>
+	<author>Pham Tien Duc</author>
+	<copyright>Copyright (C), ShineTheme Co., Ltd. All Rights Reserved.</copyright>
+	<license>GNU/GPL V3</license>
+	<authorEmail>ducphamtien@gmail.com</authorEmail>
+	<authorUrl>www.shinetheme.com</authorUrl>	
+	<version>1.0</version>
+	<description>
+	</description>
+	<scriptfile>installfile.php</scriptfile>
+	<files>
+		<filename plugin="shinethemeupdate">shinethemeupdate.php</filename>
+		<filename plugin="shinethemeupdate">index.html</filename>
+	</files>
+	<updateservers>
+	   <server type="collection">http://update.joomlart.com/service/tracking/list.xml</server>
+	</updateservers>
+</extension>

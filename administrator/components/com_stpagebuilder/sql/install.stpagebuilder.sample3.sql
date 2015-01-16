@@ -1,0 +1,17 @@
+INSERT INTO `#__stpagebuilder_type` (`id`, `type`, `name`, `class`, `defaultcode`) VALUES
+(1, 'columns_desi', 'Columns', 'st-column', '{"type":"columns_desi","content":[{"type":"column_item_desi","content":[],"attr":{"col":"4"}},{"type":"column_item_desi","content":[],"attr":{"col":"4"}},{"type":"column_item_desi","content":[],"attr":{"col":"4"}}],"attr":{}}'),
+(2, 'divider_desi', 'Divider', 'st-divider', '{"type":"divider_desi","content":" ","attr":{"style":"","margin":"0"}}'),
+(3, 'html_desi', 'HTML', 'st-html', '{"type":"html_desi","content":"","attr":{}}'),
+(4, 'moduleid_desi', 'Module', 'st-module', '{"type":"moduleid_desi","content":"","attr":{"id":"0"}}'),
+(5, 'gmap_desi', 'GMap', 'st-gmap', '{"type":"gmap_desi","content":"","attr":{"latitude":"21.038204","longitude":"105.851011","location":"hanoi","zoom":"15","maptype":"roadmap"}}'),
+(6, 'tabs_desi', 'Tabs', 'st-tabs', '{"type":"tabs_desi","content":[{"type":"tabst_item_desi","content":"","attr":{"title":"tab1"}}],"attr":{"position":"top"}}'),
+(7, 'contact_desi', 'Contact Form', 'st-contact', '{"type":"contact_desi","content":"Contact Form","attr":{}}'),
+(8, 'portfolio_desi', 'Portfolio', 'st-portfolio', '{"type":"portfolio_desi","content":"","attr":{}}'),
+(9, 'recent_article_desi', 'Recent Article', 'st-recentarticle', '{"type":"recent_article_desi","content":"ADD_CONTENT_HERE","attr":{"title":"TITLE_HERE","category_id":"8","visible":"","scroll":"","auto":"","animation":"","limit":"","type":"0","style":""}}'),
+(10, 'slider_desi', 'Slider', 'st-slider', '{"type":"slider_desi","content":[],"attr":{"interval":"5000","auto":"true"}}'),
+(11, 'gallery_desi', 'Gallery', 'st-gallery', '{"type":"gallery_desi","content":[],"attr":{}}'),
+(12, 'vimeo_desi', 'Vimeo', 'st-vimeo', '{"type":"vimeo_desi","content":"","attr":{"width":"400","height":"300"}}'),
+(13, 'youtube_desi', 'Youtube', 'st-youtube', '{"type":"youtube_desi","content":"","attr":{"width":"400","height":"300"}}'),
+(14, 'flickr_desi', 'Flickr gallery', 'st-flickr', '{"type":"flickr_desi","content":"","attr":{"id":"100707032@N06","limit":"10","width":"","height":""}}'),
+(15, 'fb_likebox_desi', 'FB Like Box', 'st-fblikebox', '{"type":"fb_likebox_desi","content":"https://www.facebook.com/shinethemetoday","attr":{"showfaces":"true","showheader":"false","width":"292","height":"","showstream":"false","showborder":"true","colorscheme":"light","language":"vi_VN"}}'),
+(16, 'alert_desi', 'Message Box', 'st-mesagebox', '{"type":"alert","content":"Lorem ipsum dolor sit amet","attr":{"type":"Info","title":"Title Info"}}');

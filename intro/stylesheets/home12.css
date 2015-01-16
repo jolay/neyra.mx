@@ -1,0 +1,47 @@
+/*HOME4.CSS*/
+/*-------------------------------------------------------------------------------------------------------------------------------*/
+/*This is  CSS file that contains only home page style rules used in Variant 6 of this template*/
+/*-------------------------------------------------------------------------------------------------------------------------------*/
+/* Template Name: DIGNITY.*/
+/* Version: 1.0 Initial Release*/
+/* Release Date: 01st Oct 2013*/
+/* Author: Designova.*/
+/* Website: http://www.designova.net */
+/* Copyright: (C) 2013 */
+/*-------------------------------------------------------------------------------------------------------------------------------*/
+#masthead{
+	background-color: transparent;
+}
+.intro-parallax-bg{
+	height: 100%;
+	background: #222 url('../images/bg/parallax-white.jpg') repeat;
+	/*activate this on mobiles*/
+	/*background: #222 url('../images/bg/parallax-image.jpg') center center repeat-y;*/
+	/*background-size: cover;
+	background-attachment: fixed;*/
+}
+#intro{
+	height: 100%;
+	background: url('../images/mask/raster.png') repeat;
+}
+
+.top-caps12{
+	width: 200px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+.top-caps12 h1{
+ 	font-size: 24px;
+ 	line-height: 31px;
+font-family:"OpenSansBold";
+ }
+.top-caps12 > .inner-ring{
+	width: 200px;
+	height: 200px;
+	padding: 50px;
+	border-radius: 200px;
+}
+
+
+

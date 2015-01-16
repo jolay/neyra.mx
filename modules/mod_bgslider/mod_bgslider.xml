@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension
+	type="module"
+	version="3.0"
+	client="site"
+	method="upgrade">
+	<name>mod_bgslider</name>
+	<author>Joomla! Project</author>
+	<creationDate>July 2006</creationDate>
+	<copyright>Copyright (C) 2005 - 2013 Open Source Matters. All rights reserved.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<authorEmail>phucnv@shinetheme.com</authorEmail>
+	<authorUrl>www.joomla.org</authorUrl>
+	<version>3.0.0</version>
+	<description>This is module background slideshow</description>
+	<files>
+		<filename module="mod_bgslider">mod_bgslider.php</filename>
+		<folder>tmpl</folder>        
+		<filename>helper.php</filename>
+		<filename>index.html</filename>
+		<filename>mod_bgslider.xml</filename>
+	</files>
+
+	<help key="JHELP_EXTENSIONS_MODULE_MANAGER_ARTICLES_NEWSFLASH" />
+	<config>
+		<fields name="params">
+			<fieldset name="basic">
+				<field
+					name="folder"
+					type="text"
+					default="images"
+					size="10"
+					label="Insert images directory"
+					description="Insert images directory in folder images" />
+
+				<field
+					name="effect"
+					class="btn-group"
+					type="list"
+					default="0"
+					label="Effect"
+					description="Select a effect">
+					<option
+						value="bgslider-slide-down-init">Down</option>
+					<option
+						value="bgslider-slide-left-init">Left</option>
+                    <option
+                            value="bgslider-slide-right-init">Right</option>
+                    <option
+                            value="bgslider-slide-up-init">Up</option>
+                    <option
+                            value="bgslider-zoom-init">Zoom</option>
+                    <option
+                            value="bgslider-fade-init">Fade</option>
+                    <option
+                            value="bgslider-flickr-init">Flickr</option>
+                    <option
+                            value="bgvideo-vimeo-init">Vimeo</option>
+                    <option
+                            value="bgvideo-youtube-init">Youtube</option>
+				</field>
+
+                <field
+                        name="linkyoutube"
+                        type="text"
+                        default="http://www.youtube.com/watch?v=9s2oYUy_cVY"
+                        size="20"
+                        label="Insert link youtube"
+                        description="Insert link youtube if select effect is Youtube" />
+
+                <field
+                        name="flickr_api_key"
+                        type="text"
+                        default="f40779ab07dd09e5890f48e3618296b3"
+                        size="20"
+                        label="Insert Flickr API Key"
+                        description="Insert Flickr API Key if select effect is Flickr" />
+                <field
+                        name="flickr_photoset_id"
+                        type="text"
+                        default="72157600884372818"
+                        size="20"
+                        label="Insert Flickr Photoset ID"
+                        description="Insert Flickr Photoset ID if select effect is Flickr" />
+
+                <field
+                        name="sourcevimeo"
+                        type="text"
+                        default="31241154"
+                        size="20"
+                        label="Insert Source Vimeo"
+                        description="Insert Source Vimeo if select effect is Vimeo" />
+
+
+			</fieldset>
+		</fields>
+	</config>
+</extension>

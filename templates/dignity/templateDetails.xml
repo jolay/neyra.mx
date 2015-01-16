@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE install PUBLIC "-//Joomla! 2.5//DTD template 1.0//EN" "http://www.joomla.org/xml/dtd/2.5/template-install.dtd">
+<extension version="3.1" type="template" client="site">
+	<name>dignity</name>
+	<version>1.0</version>
+	<creationDate>2/12/2013</creationDate>
+	<author>Shinetheme</author>
+	<authorEmail>contact@shinetheme.com</authorEmail>
+	<copyright>Copyright (C) 2005 - 2013 Open Source Matters, Inc. All rights reserved.</copyright>
+	<description></description>
+	<files>
+		<filename>component.php</filename>
+		<filename>error.php</filename>
+		<filename>favicon.ico</filename>
+		<filename>index.php</filename>
+		<filename>templateDetails.xml</filename>
+		<filename>template_preview.png</filename>
+		<filename>template_thumbnail.png</filename>
+
+        <folder>bootstrap</folder>
+        <folder>fonts</folder>
+        <folder>html</folder>
+        <folder>images</folder>
+        <folder>javascripts</folder>
+        <folder>language</folder>
+		<folder>stylesheets</folder>
+        <folder>less</folder>
+
+	</files>
+	<positions>
+        <position>st-menu</position>
+        <position>st-menu-2</position>
+		<position>home</position>
+        <position>twitter</position>
+        <position>background</position>
+		<position>debug</position>
+	</positions>
+	<languages folder="language">
+		<language tag="en-GB">en-GB/en-GB.tpl_dignity.ini</language>
+		<language tag="en-GB">en-GB/en-GB.tpl_dignity.sys.ini</language>
+	</languages>
+	<config>
+		<fields name="params">
+			<fieldset name="basic">
+				<field 
+					name="logoFile" 
+					class="" 
+					type="media" 
+					default=""
+					label="Logo" />
+				<field
+					name="logoname"
+                    label="Name Logo"
+					type="text"
+					default="Dignity"
+					description="" />
+
+                <field
+                        name="logoname"
+                        label="Name Logo"
+                        type="text"
+                        default="Dignity"
+                        description="" />
+
+                <field
+                        name="style"
+                        label="Select style for template"
+                        type="list"
+                        default="home1"
+                        description="">
+                        <option value="home01">Home 1</option>
+                        <option value="home02">Home 2</option>
+                        <option value="home03">Home 3</option>
+                        <option value="home04">Home 4</option>
+                        <option value="home05">Home 5</option>
+                        <option value="home06">Home 6</option>
+                        <option value="home07">Home 7</option>
+                        <option value="home08">Home 8</option>
+                        <option value="home09">Home 9</option>
+                        <option value="home10">Home 10</option>
+                        <option value="home11">Home 11</option>
+                        <option value="home12">Home 12</option>
+                </field>
+
+                <field name="color" type="color" default="#ffd600"
+                       label="Choose color frontend"
+                       description="This color will override default color of style home" />
+				
+			</fieldset>
+
+			<!--<fieldset name="404" label="404 Option">-->
+				<!--<field name="404" -->
+					<!--type="sql"-->
+					<!--label="Item ST Page Builder" -->
+					<!--query="SELECT id, name FROM #__stpagebuilder" -->
+					<!--key_field="id"-->
+					<!--default='32' -->
+					<!--value_field="name" />-->
+			<!--</fieldset>-->
+		</fields>
+	</config>
+</extension>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE install PUBLIC "-//Joomla! 2.5//DTD template 1.0//EN" "http://www.joomla.org/xml/dtd/2.5/template-install.dtd">
+<extension version="3.1" type="template" client="site">
+	<name>dignity</name>
+	<version>1.0</version>
+	<creationDate>2/12/2013</creationDate>
+	<author>Shinetheme</author>
+	<authorEmail>contact@shinetheme.com</authorEmail>
+	<copyright>Copyright (C) 2005 - 2013 Open Source Matters, Inc. All rights reserved.</copyright>
+	<description></description>
+	<files>
+		<filename>component.php</filename>
+		<filename>error.php</filename>
+		<filename>favicon.ico</filename>
+		<filename>index.php</filename>
+		<filename>templateDetails.xml</filename>
+		<filename>template_preview.png</filename>
+		<filename>template_thumbnail.png</filename>
+
+        <folder>bootstrap</folder>
+        <folder>fonts</folder>
+        <folder>html</folder>
+        <folder>images</folder>
+        <folder>javascripts</folder>
+        <folder>language</folder>
+		<folder>stylesheets</folder>
+        <folder>less</folder>
+
+	</files>
+	<positions>
+		<position>home</position>
+		<position>debug</position>
+	</positions>
+	<languages folder="language">
+		<language tag="en-GB">en-GB/en-GB.tpl_dignity.ini</language>
+		<language tag="en-GB">en-GB/en-GB.tpl_dignity.sys.ini</language>
+	</languages>
+	<config>
+		<fields name="params">
+			<fieldset name="basic">
+				<field 
+					name="logoFile" 
+					class="" 
+					type="media" 
+					default=""
+					label="Logo" />
+				<field
+					name="type"
+					type="radio"
+					class="btn-group"
+					default="0"
+					label="Type"
+					description="">
+					<option
+						value="0">No Sidebar</option>
+					<option
+						 value="1">With Sidebar</option>
+				</field>
+				<field
+					name="style"
+					type="radio"
+					class="btn-group"
+					default="2"
+					label="Style"
+					description="">
+					<option
+						value="1">Boxed</option>
+					<option
+					 	value="2">Wide</option>
+				</field>
+			</fieldset>
+			<fieldset name="color" label="Color Option">
+				<field 
+					name="color" 
+					class="" 
+					type="color" 
+					default="#f2836b"
+					label="Template Color" />
+				<field 
+					name="footercolor" 
+					class="" 
+					type="color" 
+					default="#232323"
+					label="Footer Background Color" />
+				<field 
+					name="menucolor" 
+					class="" 
+					type="color" 
+					default="#232323"
+					label="Sub Menu Background Color" />
+
+			</fieldset>
+			<fieldset name="404" label="404 Option">
+				<field name="404" 
+					type="sql"
+					label="Item ST Page Builder" 
+					query="SELECT id, name FROM #__stpagebuilder" 
+					key_field="id"
+					default='32' 
+					value_field="name" />
+			</fieldset>
+		</fields>
+	</config>
+</extension>
